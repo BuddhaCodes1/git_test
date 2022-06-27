@@ -1,0 +1,2 @@
+this is a new text file for my odin project
+i am learning how to create a new odin project and then i will learn to create web pages and sowftwear in the future
